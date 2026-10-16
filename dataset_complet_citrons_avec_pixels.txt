@@ -1,0 +1,902 @@
+[
+    {
+        "Spécimen": 1,
+        "Longueur_cm": 8.3,
+        "Dmax_cm": 6.15,
+        "Masse_g": 163.51,
+        "Volume_cm3": 194.35,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 26922775.96
+    },
+    {
+        "Spécimen": 2,
+        "Longueur_cm": 7.5,
+        "Dmax_cm": 5.75,
+        "Masse_g": 124.73,
+        "Volume_cm3": 185.9,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 26922775.96
+    },
+    {
+        "Spécimen": 3,
+        "Longueur_cm": 9.5,
+        "Dmax_cm": 7.1,
+        "Masse_g": 208.36,
+        "Volume_cm3": 253.5,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 23856609.01
+    },
+    {
+        "Spécimen": 4,
+        "Longueur_cm": 9.5,
+        "Dmax_cm": 7.0,
+        "Masse_g": 240.43,
+        "Volume_cm3": 290.3,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 29930653.79
+    },
+    {
+        "Spécimen": 5,
+        "Longueur_cm": 9.7,
+        "Dmax_cm": 7.8,
+        "Masse_g": 297.95,
+        "Volume_cm3": 304.8,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 29871416.7
+    },
+    {
+        "Spécimen": 6,
+        "Longueur_cm": 9.3,
+        "Dmax_cm": 6.5,
+        "Masse_g": 188.8,
+        "Volume_cm3": 228.15,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 19899272.77
+    },
+    {
+        "Spécimen": 7,
+        "Longueur_cm": 7.0,
+        "Dmax_cm": 6.3,
+        "Masse_g": 141.96,
+        "Volume_cm3": 169.0,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 27801630.22
+    },
+    {
+        "Spécimen": 8,
+        "Longueur_cm": 7.6,
+        "Dmax_cm": 6.55,
+        "Masse_g": 156.77,
+        "Volume_cm3": 185.9,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 32266629.77
+    },
+    {
+        "Spécimen": 9,
+        "Longueur_cm": 8.1,
+        "Dmax_cm": 5.85,
+        "Masse_g": 103.15,
+        "Volume_cm3": 152.1,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 17607087.44
+    },
+    {
+        "Spécimen": 10,
+        "Longueur_cm": 6.65,
+        "Dmax_cm": 5.5,
+        "Masse_g": 87.85,
+        "Volume_cm3": 154.4,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 29251498.79
+    },
+    {
+        "Spécimen": 11,
+        "Longueur_cm": 7.8,
+        "Dmax_cm": 6.0,
+        "Masse_g": 136.55,
+        "Volume_cm3": 135.2,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 23169155.5
+    },
+    {
+        "Spécimen": 12,
+        "Longueur_cm": 7.1,
+        "Dmax_cm": 4.8,
+        "Masse_g": 81.39,
+        "Volume_cm3": 116.95,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 14665328.36
+    },
+    {
+        "Spécimen": 13,
+        "Longueur_cm": 7.55,
+        "Dmax_cm": 5.3,
+        "Masse_g": 109.57,
+        "Volume_cm3": 135.0,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 12494463.49
+    },
+    {
+        "Spécimen": 14,
+        "Longueur_cm": 7.7,
+        "Dmax_cm": 5.3,
+        "Masse_g": 101.06,
+        "Volume_cm3": 126.5,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 12918170.09
+    },
+    {
+        "Spécimen": 15,
+        "Longueur_cm": 7.75,
+        "Dmax_cm": 5.4,
+        "Masse_g": 106.53,
+        "Volume_cm3": 118.3,
+        "Remarque": "Donnée originale",
+        "Volume_px3": 18142125.02
+    },
+    {
+        "Spécimen": 16,
+        "Longueur_cm": 8.5,
+        "Dmax_cm": 6.2,
+        "Masse_g": 165.2,
+        "Volume_cm3": 195.5,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1635568.11
+    },
+    {
+        "Spécimen": 17,
+        "Longueur_cm": 7.2,
+        "Dmax_cm": 5.6,
+        "Masse_g": 118.45,
+        "Volume_cm3": 134.8,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 2389474.95
+    },
+    {
+        "Spécimen": 18,
+        "Longueur_cm": 9.1,
+        "Dmax_cm": 6.8,
+        "Masse_g": 205.3,
+        "Volume_cm3": 251.2,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 3267371.81
+    },
+    {
+        "Spécimen": 19,
+        "Longueur_cm": 6.9,
+        "Dmax_cm": 5.2,
+        "Masse_g": 97.6,
+        "Volume_cm3": 111.4,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 505975.49
+    },
+    {
+        "Spécimen": 20,
+        "Longueur_cm": 8.0,
+        "Dmax_cm": 6.0,
+        "Masse_g": 145.8,
+        "Volume_cm3": 171.5,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1276229.6
+    },
+    {
+        "Spécimen": 21,
+        "Longueur_cm": 7.8,
+        "Dmax_cm": 6.1,
+        "Masse_g": 147.12,
+        "Volume_cm3": 175.0,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 2071354.92
+    },
+    {
+        "Spécimen": 22,
+        "Longueur_cm": 8.7,
+        "Dmax_cm": 6.5,
+        "Masse_g": 188.5,
+        "Volume_cm3": 219.3,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1904788.47
+    },
+    {
+        "Spécimen": 23,
+        "Longueur_cm": 7.4,
+        "Dmax_cm": 5.8,
+        "Masse_g": 124.05,
+        "Volume_cm3": 148.6,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1767154.51
+    },
+    {
+        "Spécimen": 24,
+        "Longueur_cm": 9.4,
+        "Dmax_cm": 7.2,
+        "Masse_g": 235.9,
+        "Volume_cm3": 293.1,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 2374154.19
+    },
+    {
+        "Spécimen": 25,
+        "Longueur_cm": 6.8,
+        "Dmax_cm": 5.0,
+        "Masse_g": 91.25,
+        "Volume_cm3": 103.5,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1839704.09
+    },
+    {
+        "Spécimen": 26,
+        "Longueur_cm": 8.2,
+        "Dmax_cm": 5.9,
+        "Masse_g": 146.33,
+        "Volume_cm3": 172.8,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1491829.25
+    },
+    {
+        "Spécimen": 27,
+        "Longueur_cm": 7.9,
+        "Dmax_cm": 6.4,
+        "Masse_g": 162.7,
+        "Volume_cm3": 195.2,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 2169016.04
+    },
+    {
+        "Spécimen": 28,
+        "Longueur_cm": 8.8,
+        "Dmax_cm": 6.7,
+        "Masse_g": 195.1,
+        "Volume_cm3": 238.4,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 2025083.98
+    },
+    {
+        "Spécimen": 29,
+        "Longueur_cm": 7.1,
+        "Dmax_cm": 5.4,
+        "Masse_g": 107.5,
+        "Volume_cm3": 123.9,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 1992338.37
+    },
+    {
+        "Spécimen": 30,
+        "Longueur_cm": 8.4,
+        "Dmax_cm": 6.3,
+        "Masse_g": 171.45,
+        "Volume_cm3": 202.66,
+        "Remarque": "Générée (Logique)",
+        "Volume_px3": 2032845.28
+    },
+    {
+        "Spécimen": 31,
+        "Longueur_cm": 8.1,
+        "Dmax_cm": 5.9,
+        "Masse_g": 146.8,
+        "Volume_cm3": 174.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4315724.42
+    },
+    {
+        "Spécimen": 32,
+        "Longueur_cm": 7.6,
+        "Dmax_cm": 5.8,
+        "Masse_g": 133.1,
+        "Volume_cm3": 158.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4405017.91
+    },
+    {
+        "Spécimen": 33,
+        "Longueur_cm": 9.2,
+        "Dmax_cm": 6.9,
+        "Masse_g": 228.1,
+        "Volume_cm3": 271.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4030273.82
+    },
+    {
+        "Spécimen": 34,
+        "Longueur_cm": 6.9,
+        "Dmax_cm": 5.2,
+        "Masse_g": 97.1,
+        "Volume_cm3": 115.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4377791.3
+    },
+    {
+        "Spécimen": 35,
+        "Longueur_cm": 8.5,
+        "Dmax_cm": 6.4,
+        "Masse_g": 181.3,
+        "Volume_cm3": 215.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4374475.35
+    },
+    {
+        "Spécimen": 36,
+        "Longueur_cm": 7.8,
+        "Dmax_cm": 6.0,
+        "Masse_g": 142.5,
+        "Volume_cm3": 169.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4264024.02
+    },
+    {
+        "Spécimen": 37,
+        "Longueur_cm": 8.8,
+        "Dmax_cm": 6.6,
+        "Masse_g": 201.2,
+        "Volume_cm3": 239.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4363647.85
+    },
+    {
+        "Spécimen": 38,
+        "Longueur_cm": 7.3,
+        "Dmax_cm": 5.4,
+        "Masse_g": 108.4,
+        "Volume_cm3": 129.0,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3641387.84
+    },
+    {
+        "Spécimen": 39,
+        "Longueur_cm": 8.3,
+        "Dmax_cm": 6.2,
+        "Masse_g": 160.5,
+        "Volume_cm3": 191.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4416861.72
+    },
+    {
+        "Spécimen": 40,
+        "Longueur_cm": 9.4,
+        "Dmax_cm": 7.1,
+        "Masse_g": 241.6,
+        "Volume_cm3": 287.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4153156.43
+    },
+    {
+        "Spécimen": 41,
+        "Longueur_cm": 7.1,
+        "Dmax_cm": 5.3,
+        "Masse_g": 102.3,
+        "Volume_cm3": 121.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3797767.69
+    },
+    {
+        "Spécimen": 42,
+        "Longueur_cm": 8.6,
+        "Dmax_cm": 6.5,
+        "Masse_g": 189.4,
+        "Volume_cm3": 225.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3933357.25
+    },
+    {
+        "Spécimen": 43,
+        "Longueur_cm": 7.9,
+        "Dmax_cm": 5.8,
+        "Masse_g": 135.2,
+        "Volume_cm3": 161.0,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4014393.07
+    },
+    {
+        "Spécimen": 44,
+        "Longueur_cm": 8.0,
+        "Dmax_cm": 6.1,
+        "Masse_g": 151.8,
+        "Volume_cm3": 180.7,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3693715.0
+    },
+    {
+        "Spécimen": 45,
+        "Longueur_cm": 9.0,
+        "Dmax_cm": 6.7,
+        "Masse_g": 215.0,
+        "Volume_cm3": 256.0,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4448677.41
+    },
+    {
+        "Spécimen": 46,
+        "Longueur_cm": 7.5,
+        "Dmax_cm": 5.6,
+        "Masse_g": 120.6,
+        "Volume_cm3": 143.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4063443.54
+    },
+    {
+        "Spécimen": 47,
+        "Longueur_cm": 8.4,
+        "Dmax_cm": 6.3,
+        "Masse_g": 168.9,
+        "Volume_cm3": 201.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3652860.15
+    },
+    {
+        "Spécimen": 48,
+        "Longueur_cm": 6.8,
+        "Dmax_cm": 5.1,
+        "Masse_g": 91.5,
+        "Volume_cm3": 108.9,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4219689.08
+    },
+    {
+        "Spécimen": 49,
+        "Longueur_cm": 8.7,
+        "Dmax_cm": 6.4,
+        "Masse_g": 184.2,
+        "Volume_cm3": 219.3,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3901602.04
+    },
+    {
+        "Spécimen": 50,
+        "Longueur_cm": 7.7,
+        "Dmax_cm": 5.9,
+        "Masse_g": 138.7,
+        "Volume_cm3": 165.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3622507.66
+    },
+    {
+        "Spécimen": 51,
+        "Longueur_cm": 8.2,
+        "Dmax_cm": 6.0,
+        "Masse_g": 153.4,
+        "Volume_cm3": 182.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4191311.86
+    },
+    {
+        "Spécimen": 52,
+        "Longueur_cm": 9.5,
+        "Dmax_cm": 7.2,
+        "Masse_g": 250.8,
+        "Volume_cm3": 298.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3038757.33
+    },
+    {
+        "Spécimen": 53,
+        "Longueur_cm": 7.2,
+        "Dmax_cm": 5.5,
+        "Masse_g": 110.5,
+        "Volume_cm3": 131.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4022426.12
+    },
+    {
+        "Spécimen": 54,
+        "Longueur_cm": 8.1,
+        "Dmax_cm": 6.1,
+        "Masse_g": 156.6,
+        "Volume_cm3": 186.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3860374.13
+    },
+    {
+        "Spécimen": 55,
+        "Longueur_cm": 8.9,
+        "Dmax_cm": 6.8,
+        "Masse_g": 220.3,
+        "Volume_cm3": 262.3,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3916821.48
+    },
+    {
+        "Spécimen": 56,
+        "Longueur_cm": 7.4,
+        "Dmax_cm": 5.7,
+        "Masse_g": 125.1,
+        "Volume_cm3": 148.9,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4023293.2
+    },
+    {
+        "Spécimen": 57,
+        "Longueur_cm": 8.5,
+        "Dmax_cm": 6.2,
+        "Masse_g": 166.4,
+        "Volume_cm3": 198.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4264748.16
+    },
+    {
+        "Spécimen": 58,
+        "Longueur_cm": 9.1,
+        "Dmax_cm": 7.0,
+        "Masse_g": 232.5,
+        "Volume_cm3": 276.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3972667.22
+    },
+    {
+        "Spécimen": 59,
+        "Longueur_cm": 7.0,
+        "Dmax_cm": 5.2,
+        "Masse_g": 98.6,
+        "Volume_cm3": 117.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4022031.85
+    },
+    {
+        "Spécimen": 60,
+        "Longueur_cm": 8.3,
+        "Dmax_cm": 6.3,
+        "Masse_g": 169.5,
+        "Volume_cm3": 201.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4235628.73
+    },
+    {
+        "Spécimen": 61,
+        "Longueur_cm": 7.6,
+        "Dmax_cm": 5.6,
+        "Masse_g": 122.1,
+        "Volume_cm3": 145.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 2732836.11
+    },
+    {
+        "Spécimen": 62,
+        "Longueur_cm": 8.8,
+        "Dmax_cm": 6.5,
+        "Masse_g": 193.8,
+        "Volume_cm3": 230.7,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4306885.55
+    },
+    {
+        "Spécimen": 63,
+        "Longueur_cm": 7.8,
+        "Dmax_cm": 5.8,
+        "Masse_g": 134.5,
+        "Volume_cm3": 160.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3971849.62
+    },
+    {
+        "Spécimen": 64,
+        "Longueur_cm": 8.4,
+        "Dmax_cm": 6.4,
+        "Masse_g": 175.6,
+        "Volume_cm3": 209.0,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4171193.1
+    },
+    {
+        "Spécimen": 65,
+        "Longueur_cm": 9.3,
+        "Dmax_cm": 7.1,
+        "Masse_g": 245.2,
+        "Volume_cm3": 291.9,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4757365.59
+    },
+    {
+        "Spécimen": 66,
+        "Longueur_cm": 6.9,
+        "Dmax_cm": 5.1,
+        "Masse_g": 94.2,
+        "Volume_cm3": 112.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 4625498.81
+    },
+    {
+        "Spécimen": 67,
+        "Longueur_cm": 8.0,
+        "Dmax_cm": 6.0,
+        "Masse_g": 148.3,
+        "Volume_cm3": 176.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 850852.46
+    },
+    {
+        "Spécimen": 68,
+        "Longueur_cm": 8.6,
+        "Dmax_cm": 6.6,
+        "Masse_g": 197.1,
+        "Volume_cm3": 234.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 667517.75
+    },
+    {
+        "Spécimen": 69,
+        "Longueur_cm": 7.5,
+        "Dmax_cm": 5.5,
+        "Masse_g": 116.8,
+        "Volume_cm3": 139.0,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 662108.72
+    },
+    {
+        "Spécimen": 70,
+        "Longueur_cm": 8.2,
+        "Dmax_cm": 6.2,
+        "Masse_g": 163.7,
+        "Volume_cm3": 194.9,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 632789.8
+    },
+    {
+        "Spécimen": 71,
+        "Longueur_cm": 9.2,
+        "Dmax_cm": 6.8,
+        "Masse_g": 221.5,
+        "Volume_cm3": 263.7,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 807739.6
+    },
+    {
+        "Spécimen": 72,
+        "Longueur_cm": 7.1,
+        "Dmax_cm": 5.3,
+        "Masse_g": 105.1,
+        "Volume_cm3": 125.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 677371.36
+    },
+    {
+        "Spécimen": 73,
+        "Longueur_cm": 8.7,
+        "Dmax_cm": 6.5,
+        "Masse_g": 188.6,
+        "Volume_cm3": 224.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 796190.32
+    },
+    {
+        "Spécimen": 74,
+        "Longueur_cm": 7.9,
+        "Dmax_cm": 5.9,
+        "Masse_g": 140.8,
+        "Volume_cm3": 167.6,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 839628.34
+    },
+    {
+        "Spécimen": 75,
+        "Longueur_cm": 8.1,
+        "Dmax_cm": 6.1,
+        "Masse_g": 155.0,
+        "Volume_cm3": 184.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 761694.06
+    },
+    {
+        "Spécimen": 76,
+        "Longueur_cm": 9.4,
+        "Dmax_cm": 7.2,
+        "Masse_g": 254.1,
+        "Volume_cm3": 302.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 886283.34
+    },
+    {
+        "Spécimen": 77,
+        "Longueur_cm": 7.3,
+        "Dmax_cm": 5.4,
+        "Masse_g": 111.3,
+        "Volume_cm3": 132.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 719510.33
+    },
+    {
+        "Spécimen": 78,
+        "Longueur_cm": 8.5,
+        "Dmax_cm": 6.3,
+        "Masse_g": 172.1,
+        "Volume_cm3": 204.9,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 603781.91
+    },
+    {
+        "Spécimen": 79,
+        "Longueur_cm": 6.8,
+        "Dmax_cm": 5.0,
+        "Masse_g": 89.4,
+        "Volume_cm3": 106.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 862612.23
+    },
+    {
+        "Spécimen": 80,
+        "Longueur_cm": 8.8,
+        "Dmax_cm": 6.7,
+        "Masse_g": 208.5,
+        "Volume_cm3": 248.2,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 841577.69
+    },
+    {
+        "Spécimen": 81,
+        "Longueur_cm": 8.1,
+        "Dmax_cm": 6.2,
+        "Masse_g": 168.2,
+        "Volume_cm3": 205.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 657986.95
+    },
+    {
+        "Spécimen": 82,
+        "Longueur_cm": 7.4,
+        "Dmax_cm": 5.5,
+        "Masse_g": 119.2,
+        "Volume_cm3": 145.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 665520.49
+    },
+    {
+        "Spécimen": 83,
+        "Longueur_cm": 8.9,
+        "Dmax_cm": 6.6,
+        "Masse_g": 205.2,
+        "Volume_cm3": 250.3,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 647655.03
+    },
+    {
+        "Spécimen": 84,
+        "Longueur_cm": 9.1,
+        "Dmax_cm": 7.1,
+        "Masse_g": 242.2,
+        "Volume_cm3": 295.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 569717.62
+    },
+    {
+        "Spécimen": 85,
+        "Longueur_cm": 6.8,
+        "Dmax_cm": 5.1,
+        "Masse_g": 94.4,
+        "Volume_cm3": 115.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 800457.39
+    },
+    {
+        "Spécimen": 86,
+        "Longueur_cm": 7.7,
+        "Dmax_cm": 5.8,
+        "Masse_g": 138.0,
+        "Volume_cm3": 168.3,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 861923.43
+    },
+    {
+        "Spécimen": 87,
+        "Longueur_cm": 8.4,
+        "Dmax_cm": 6.5,
+        "Masse_g": 184.9,
+        "Volume_cm3": 225.5,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 766817.21
+    },
+    {
+        "Spécimen": 88,
+        "Longueur_cm": 7.2,
+        "Dmax_cm": 5.3,
+        "Masse_g": 106.9,
+        "Volume_cm3": 130.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 524596.49
+    },
+    {
+        "Spécimen": 89,
+        "Longueur_cm": 8.6,
+        "Dmax_cm": 6.2,
+        "Masse_g": 176.1,
+        "Volume_cm3": 214.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 657267.52
+    },
+    {
+        "Spécimen": 90,
+        "Longueur_cm": 9.3,
+        "Dmax_cm": 6.9,
+        "Masse_g": 229.8,
+        "Volume_cm3": 280.2,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 648132.56
+    },
+    {
+        "Spécimen": 91,
+        "Longueur_cm": 7.5,
+        "Dmax_cm": 5.7,
+        "Masse_g": 129.9,
+        "Volume_cm3": 158.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 604864.97
+    },
+    {
+        "Spécimen": 92,
+        "Longueur_cm": 8.0,
+        "Dmax_cm": 6.0,
+        "Masse_g": 151.8,
+        "Volume_cm3": 185.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 786423.89
+    },
+    {
+        "Spécimen": 93,
+        "Longueur_cm": 7.9,
+        "Dmax_cm": 6.1,
+        "Masse_g": 155.9,
+        "Volume_cm3": 190.2,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 781393.42
+    },
+    {
+        "Spécimen": 94,
+        "Longueur_cm": 8.5,
+        "Dmax_cm": 6.4,
+        "Masse_g": 185.1,
+        "Volume_cm3": 225.8,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 711218.88
+    },
+    {
+        "Spécimen": 95,
+        "Longueur_cm": 8.8,
+        "Dmax_cm": 6.7,
+        "Masse_g": 209.4,
+        "Volume_cm3": 255.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 10839670.4
+    },
+    {
+        "Spécimen": 96,
+        "Longueur_cm": 7.1,
+        "Dmax_cm": 5.2,
+        "Masse_g": 102.6,
+        "Volume_cm3": 125.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 9796518.69
+    },
+    {
+        "Spécimen": 97,
+        "Longueur_cm": 8.2,
+        "Dmax_cm": 6.1,
+        "Masse_g": 160.2,
+        "Volume_cm3": 195.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 11740781.27
+    },
+    {
+        "Spécimen": 98,
+        "Longueur_cm": 7.6,
+        "Dmax_cm": 5.9,
+        "Masse_g": 141.1,
+        "Volume_cm3": 172.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 8891407.78
+    },
+    {
+        "Spécimen": 99,
+        "Longueur_cm": 9.0,
+        "Dmax_cm": 6.8,
+        "Masse_g": 217.6,
+        "Volume_cm3": 265.4,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 9914652.79
+    },
+    {
+        "Spécimen": 100,
+        "Longueur_cm": 8.3,
+        "Dmax_cm": 6.3,
+        "Masse_g": 176.4,
+        "Volume_cm3": 215.1,
+        "Remarque": "Donnée CSV",
+        "Volume_px3": 3982334.68
+    }
+]
