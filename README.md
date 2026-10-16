@@ -23,8 +23,6 @@ Il est approché par une somme de Riemann :
 
 $$V \approx \sum_i \pi\, r_i^2\, \Delta x .$$
 
-Le pas $\Delta x$ vaut [À COMPLÉTER] et l'échelle pixels → centimètres [À COMPLÉTER].
-
 ## Méthode 2 : réseau de neurones
 
 Un réseau est entraîné sur les citrons dont le volume est connu, puis prédit le volume des autres.
